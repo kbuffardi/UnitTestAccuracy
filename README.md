@@ -4,8 +4,8 @@ A tool for assessing students' unit tests by running their tests against all oth
 
 [Unit Test Smells and Accuracy of Software Engineering Student Test Suites](https://doi.org/10.1145/3430665.3456328)
 ```
-Kevin Buffardi and Juan Aguirre-Ayala. 2021. Unit Test Smells and Accuracy of Software Engineering Student Test Suites. In Proceedings of Innovation and Technology in
-Computer Science Education (ITiCSE '21). Association for Computing Machinery, New York, NY, USA. DOI:https://doi.org/10.1145/3430665.3456328
+Kevin Buffardi and Juan Aguirre-Ayala. 2021. Unit Test Smells and Accuracy of Software Engineering Student Test Suites. In Proceedings of the 2021 ACM Conference on Innovation and
+Technology in Computer Science Education (ITiCSE '21). Association for Computing Machinery, New York, NY, USA. DOI:https://doi.org/10.1145/3430665.3456328
 ```
 
 [Measuring Unit Test Accuracy](https://doi.org/10.1145/3287324.3287351)
